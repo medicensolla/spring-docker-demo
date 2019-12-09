@@ -21,6 +21,11 @@ public class ActorController {
     }
 
 
+    /**
+     *
+     * @param actorDto The actor object
+     * @return The created Actor
+     */
     @PostMapping("/create")
     public ResponseEntity<ActorDto> createActor(@RequestBody ActorDto actorDto) {
 
