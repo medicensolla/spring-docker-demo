@@ -1,7 +1,5 @@
 package com.conexia.demoSpringDocker.service;
 
-import com.conexia.demoSpringDocker.domain.Staff;
-import com.conexia.demoSpringDocker.domain.Store;
 import com.conexia.demoSpringDocker.dto.StoreDto;
 
 import java.util.List;
